@@ -39,3 +39,10 @@ public class Controller // This is the controller Class
 		
 	}
 }
+
+/* OUTPUT */
+//Details of Employee :
+//Name:Saravana
+//Age:30
+//Employee_id:18101015
+//Employee_Salary:30000
